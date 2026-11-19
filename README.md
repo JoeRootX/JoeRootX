@@ -41,18 +41,23 @@ Me especializo en entender sistemas complejos desde adentro y aportarles valor s
 
 ## 🚀 Proyectos destacados
 
-### [siiges-services](https://github.com/JoeRootX/siiges-services)
-Backend del sistema SIIGES — plataforma gubernamental de control escolar.
-Trabajo sobre servicios Node.js en un entorno de producción real con usuarios institucionales.
-`JavaScript` · `Node.js` · `REST API`
+### 🧪 Fábrica — orquestador de agentes de código *(privado · demo bajo solicitud)*
+Agentes de IA (Hermes + OpenCode) que implementan tareas acotadas en entornos aislados: git worktree + sandbox por tarea, tests inmutables, escaneo de secretos y revisión por un segundo modelo antes de aprobar.
+`Python` · `Git` · `Linux namespaces` · `LLM agents`
 
-### [siiges-ui](https://github.com/JoeRootX/siiges-ui)
-Monorepo frontend del sistema SIIGES. Contribuciones en mejoras y mantenimiento de componentes.
-`JavaScript` · `React` · `Monorepo`
+### 🧠 Cerebro HQ — dashboard local-first *(privado)*
+Indexa notas Markdown en SQLite (FTS5 + embeddings locales) con API Fastify y dashboard React; búsqueda semántica sin enviar datos a la nube.
+`TypeScript` · `Fastify` · `React` · `SQLite`
 
-### [Vigilancia](https://github.com/JoeRootX/Vigilancia)
-Exploración en desarrollo Android nativo con Kotlin.
-`Kotlin` · `Android`
+### 🌐 [status_raw](https://github.com/JoeRootX/status_raw)
+Mi sitio: estado, portafolio, blog y CV en Next.js con integraciones a GitHub, Jira, Spotify, YouTube y Telegram.
+`Next.js` · `TypeScript` · `Vercel`
+
+### 🏛️ SIIGES — plataforma gubernamental de control escolar *(experiencia laboral)*
+Mantenimiento evolutivo de backend Node.js y frontend React en producción con usuarios institucionales.
+`Node.js` · `REST API` · `React`
+
+📝 **Portafolio y blog:** https://status-raw.vercel.app/portafolio
 
 ---
 
@@ -63,6 +68,7 @@ Actualmente fortaleciendo conocimiento en:
 - **Arquitectura de software** — diseño de sistemas escalables y desacoplados
 - **Buenas prácticas** — clean code, patrones, testing
 - **DevOps básico** — CI/CD, contenedores, despliegue
+- **IA aplicada al desarrollo** — agentes con verificación y revisión, sin sacrificar calidad ni privacidad
 
 ---
 
